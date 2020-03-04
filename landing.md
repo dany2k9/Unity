@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Mixamo
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Animar personajes 3D para juegos, películas y mucho más.'
+image: assets/images/14.jpg
 nav-menu: true
 ---
 
