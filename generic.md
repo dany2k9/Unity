@@ -2,7 +2,7 @@
 layout: post
 title: MagicaVoxel
 description: Editor de arte voxel de 8 bits
-image: assets/images/pic11.jpg
+image: assets/images/12.jpg
 nav-menu: true
 ---
 
