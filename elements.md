@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Unity
 description: Motor de videojuego multiplataforma
 image: assets/images/13.jpg
