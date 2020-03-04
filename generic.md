@@ -13,6 +13,6 @@ Software para la creaciòn de modelos 3D.
 
 [MagicaVoxel](https://ephtracy.github.io)
 
-![img1](https://ephtracy.github.io/image/snap2016-07-02-17-16-08.png "MagicaVoxel" =250x)
-![img2](https://ephtracy.github.io/image/monu8.png "MagicaVoxel - Monumento" =250x)
-![img3](https://ephtracy.github.io/image/snap2016-06-11-22-31-48.png "MagicaVoxel - Ciudad" =250x)
+![img1](https://ephtracy.github.io/image/snap2016-07-02-17-16-08.png "MagicaVoxel" | width=100)
+![img2](https://ephtracy.github.io/image/monu8.png "MagicaVoxel - Monumento" | width=100)
+![img3](https://ephtracy.github.io/image/snap2016-06-11-22-31-48.png "MagicaVoxel - Ciudad" | width=100)
