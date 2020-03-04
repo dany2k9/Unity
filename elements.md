@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Blender
+title: Unity
+description: Motor de videojuego multiplataforma
+image: assets/images/12.jpg
 nav-menu: true
 ---
 
