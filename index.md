@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Inicio
 landing-title: 'Unity - Apuntes'
 description: null
 image: null
