@@ -13,5 +13,5 @@ Software para la creaciòn de modelos 3D.
 
 [MagicaVoxel](https://ephtracy.github.io)
 
-![img1](/images/L1-1.png "Lección 1-Cap 1"){:width="300px"}
+![img1](./images/L1-1.png "Lección 1-Cap 1"){:width="300px"}
 
