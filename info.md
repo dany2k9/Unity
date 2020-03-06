@@ -2,7 +2,7 @@
 layout: post
 title: Create with Code
 description: Editor de arte voxel de 8 bits
-image: assets/images/12.jpg
+image: assets/images/cwc.png
 nav-menu: true
 ---
 
