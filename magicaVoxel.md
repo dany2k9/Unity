@@ -24,3 +24,9 @@ Software para la creaciòn de modelos 3D.
 ### MagicaVoxel y Mixamo
 
 [![](http://img.youtube.com/vi/Cs8ov13J5y4/0.jpg)](http://www.youtube.com/watch?v=Cs8ov13J5y4 "MagicaVoxel y Mixamo")
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
