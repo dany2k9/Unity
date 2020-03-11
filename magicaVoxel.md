@@ -19,7 +19,7 @@ Software para la creaciòn de modelos 3D.
 
 ### Modelando una camioneta con MagicaVoxel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xRHV86mY-g0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ntgLzaEfiZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### MagicaVoxel y Mixamo
 
