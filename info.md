@@ -29,6 +29,7 @@ Software para la creaciòn de modelos 3D.
 ![img5](./images/L2-5.png "Lección 2-Pag 5"){:width="600px"}
 
 ### Plan de estudio del curso
+
 ![img1](./images/plan-1.png "Plan-Pag 1"){:width="600px"}
 ![img2](./images/plan-2.png "Plan-Pag 2"){:width="600px"}
 ![img3](./images/plan-3.png "Plan-Pag 3"){:width="600px"}
