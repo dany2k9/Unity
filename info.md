@@ -15,15 +15,15 @@ Software para la creaciòn de modelos 3D.
 
 ### Lección 1
 
-![img1](./images/L1-1.png "Lección 1-Cap 1"){:width="600px"}
-![img2](./images/L1-2.png "Lección 1-Cap 2"){:width="600px"}
-![img3](./images/L1-3.png "Lección 1-Cap 3"){:width="600px"}
-![img4](./images/L1-4.png "Lección 1-Cap 4"){:width="600px"}
+![img1](./images/L1-1.png "Lección 1-Pag 1"){:width="600px"}
+![img2](./images/L1-2.png "Lección 1-Pag 2"){:width="600px"}
+![img3](./images/L1-3.png "Lección 1-Pag 3"){:width="600px"}
+![img4](./images/L1-4.png "Lección 1-Pag 4"){:width="600px"}
 
 ### Lección 2
 
-![img1](./images/L2-1.png "Lección 1-Cap 1"){:width="600px"}
-![img2](./images/L2-2.png "Lección 1-Cap 2"){:width="600px"}
-![img3](./images/L2-3.png "Lección 1-Cap 3"){:width="600px"}
-![img4](./images/L2-4.png "Lección 1-Cap 4"){:width="600px"}
-![img4](./images/L2-5.png "Lección 1-Cap 4"){:width="600px"}
+![img1](./images/L2-1.png "Lección 2-Pag 1"){:width="600px"}
+![img2](./images/L2-2.png "Lección 2-Pag 2"){:width="600px"}
+![img3](./images/L2-3.png "Lección 2-Pag 3"){:width="600px"}
+![img4](./images/L2-4.png "Lección 2-Pag 4"){:width="600px"}
+![img5](./images/L2-5.png "Lección 2-Pag 5"){:width="600px"}
