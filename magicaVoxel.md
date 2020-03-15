@@ -26,4 +26,4 @@ Software para la creaciòn de modelos 3D.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cs8ov13J5y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### TEST1
-<iframe title="PDF in an i-Frame" src="https://github.com/dany2k9/Unity/blob/gh-pages/pdfs/Leccion01.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
+<iframe title="PDF in an i-Frame" src="pdfs/Leccion01.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
