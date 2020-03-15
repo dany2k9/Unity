@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create with Code
-description: Editor de arte voxel de 8 bits
+description: En este curso oficial de Unity, aprenderás a Crear con Código mientras programas tus propios proyectos desde cero en C#.
 image: assets/images/cwc.png
 nav-menu: true
 ---
