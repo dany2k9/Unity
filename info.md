@@ -34,3 +34,11 @@ Software para la creaciòn de modelos 3D.
 ![img2](./images/plan-2.png "Plan-Pag 2"){:width="600px"}
 ![img3](./images/plan-3.png "Plan-Pag 3"){:width="600px"}
 ![img4](./images/plan-4.png "Plan-Pag 4"){:width="600px"}
+
+### Hoja de trabajo
+
+![img1](./images/hoja-1.png "Hoja de trabajo-Pag 1"){:width="600px"}
+![img2](./images/hoja-2.png "Hoja de trabajo-Pag 2"){:width="600px"}
+![img3](./images/hoja-3.png "Hoja de trabajo-Pag 3"){:width="600px"}
+![img4](./images/hoja-4.png "Hoja de trabajo-Pag 4"){:width="600px"}
+![img5](./images/hoja-5.png "Hoja de trabajo-Pag 5"){:width="600px"}
