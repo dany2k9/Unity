@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unity
-description: Motor de videojuego multiplataforma
+title: La aventura de Ruby
+description: Aprende a crear este pequeño RPG 2D desde cero y salva la ciudad!
 image: assets/images/13.jpg
 nav-menu: true
 ---
