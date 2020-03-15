@@ -2,7 +2,7 @@
 layout: post
 title: La aventura de Ruby
 description: Aprende a crear este pequeño RPG 2D desde cero y salva la ciudad!
-image: assets/images/13.jpg
+image: assets/images/ruby.png
 nav-menu: true
 ---
 
