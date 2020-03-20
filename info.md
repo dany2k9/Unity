@@ -13,7 +13,7 @@ Software para la creaciòn de modelos 3D.
 
 [Create with Code](https://ephtracy.github.io)
 
-<iframe title="PDF in an i-Frame" src="pdfs/Plan de estudio.pdf.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
+<iframe title="PDF in an i-Frame" src="pdfs/Plan de estudio.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
 
 ### Lección 1
 
